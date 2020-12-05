@@ -1,4 +1,4 @@
-<img src="" width="200x300">
+<img src="/img/bg.ico" width="200x300">
 <h1>AutoAbs</h1>
 
 <h3>Penjelasan</h3>
