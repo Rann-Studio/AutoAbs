@@ -13,3 +13,5 @@
 <p>• Jalankan AutoAbs.exe.</p>
 <img src="/img/image4.png" width="300x350">
 <p>• Biarkan program berjalan hingga jadwal absen tiba.</p>
+
+<h4>Created by : <a href='instagram.com/fikran2906'>Rann</a></h4>
