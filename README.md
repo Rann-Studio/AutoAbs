@@ -10,3 +10,5 @@
 <img src="/img/image2.png" width="300x350">
 <p>• Setel NPM, password dan jadwal absen di config.ini.</p>
 <img src="/img/image3.png" width="300x350">
+<p>• Jalankan AutoAbs.exe.</p>
+<img src="/img/image4.png" width="300x350">
