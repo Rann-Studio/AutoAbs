@@ -7,6 +7,6 @@
 <p>• Klik extract dan tunggu hingga selesai.</p>
 <img src="/img/image1.png" width="300x350">
 <p>• Jalankan setup.exe dan tunggu hingga selesai.</p>
-<img src="/img/image2.png" width="300x600">
+<img src="/img/image2.png" width="300x800">
 <p>• Setel NPM, password dan jadwal absen di config.ini.</p>
 <img src="/img/image3.png" width="300x350">
