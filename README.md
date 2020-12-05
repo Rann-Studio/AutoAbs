@@ -13,5 +13,5 @@
 <p>• Jalankan AutoAbs.exe.</p>
 <img src="/img/image4.png" width="300x350">
 
-<h3>Preview</h3>
+<h3>Preview :</h3>
 <img src="/img/preview.gif" width="500x500">
