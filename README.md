@@ -1,7 +1,7 @@
 <h1>AutoAbs</h1>
 <p>AutoAbs adalah program absen otomatis untuk <a href="https://simkuliah.unsyiah.ac.id" target="_blank">www.simkuliah.unsyiah.ac.id</a></p>
 <p>Sebelum menggunakan program ini, kalian wajib menginstall <a href="https://www.python.org/downloads/" target="_blank">python</a> terlebih dahulu.</p>
-
+</br>
 <h3>Tutorial :</h3>
 <p>• Buka AutoAbs Installer.exe</p>
 <p>• Klik extract dan tunggu hingga selesai.</p>
