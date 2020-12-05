@@ -1,5 +1,5 @@
 <img src="/img/bg.ico" width="150x200">
-<h1>AutoAbs</h1>
+<h1>  AutoAbs</h1>
 
 <h3>Penjelasan</h3>
 <p>AutoAbs adalah program absen otomatis untuk <a href='https://simkuliah.unsyiah.ac.id'>www.simkuliah.unsyiah.ac.id</a></p>
