@@ -15,4 +15,5 @@
 <p>• Biarkan program berjalan hingga jadwal absen tiba.</p>
 
 </br>
-<p>Copyright &copy; 2020 <a href='https://instagram.com/fikran2906'>Rann</a>.</p>
+</br>
+<div style="text-align: right">Copyright &copy; 2020 <a href='https://instagram.com/fikran2906'>Rann</a>.</div>
