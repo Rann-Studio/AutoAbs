@@ -1,4 +1,4 @@
-<h1>AutoAbs [ ARCIVED ]</h1>
+<h1>AutoAbs [ USANG ]</h1>
 <p>AutoAbs adalah program absen otomatis untuk <a href="https://simkuliah.unsyiah.ac.id" target="_blank">www.simkuliah.unsyiah.ac.id</a></p>
 <p>Sebelum menggunakan program ini, kalian wajib menginstall <a href="https://www.python.org/downloads/" target="_blank">python</a> terlebih dahulu.</p>
 </br>
